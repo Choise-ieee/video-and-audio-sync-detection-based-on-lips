@@ -26,6 +26,10 @@ the coding need dlib envirment in Quallmomm environment, we can use the followin
 5. make -j8
 6. sudo make install
 
+## Demo
+<img width="1920" height="1080" alt="Screenshot from 2025-09-16 12-34-09" src="https://github.com/user-attachments/assets/aebe1557-4a4b-4b5f-bdec-dc73ed0edf28" />
+<img width="1920" height="1080" alt="Screenshot from 2025-09-16 13-14-11" src="https://github.com/user-attachments/assets/ae2f07bc-d49f-4173-9c1b-064274d7613a" />
+
 ## Coding evacuation results
 Test for video have 2000ms-audio-delay and so on.
 <img width="1920" height="1080" alt="Screenshot from 2025-09-16 12-18-18" src="https://github.com/user-attachments/assets/6c1b0737-c531-4e3a-baa3-5913c35f14c0" />
